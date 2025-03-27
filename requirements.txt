@@ -6,4 +6,7 @@ pyyaml
 imbalanced-learn
 lightgbm
 mlflow
-flask
+Flask
+joblib
+gunicorn
+
